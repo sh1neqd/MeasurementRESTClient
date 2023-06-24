@@ -12,7 +12,7 @@ public class Client {
     public static void main(String[] args) {
         final String sensorName = "sensor1";
 
-//        registerSensor(sensorName);
+        registerSensor(sensorName);
 
         Random random = new Random();
 
